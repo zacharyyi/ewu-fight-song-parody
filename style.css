@@ -1,0 +1,66 @@
+@import "https://unpkg.com/open-props";
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+
+
+
+
+Diagnostic Styling  
+
+* {
+  outline: 1px double gray;
+}
+
+body {
+  background: var(--gradient-21);
+  height: 100vh; 
+}
+
+main{
+  width: 800px; 
+  margin: 0 auto 0 auto; 
+  padding: 32px; 
+}
+
+audio {
+  width: 100%;
+}
+
+ h1 {
+  text-align: center; 
+  
+ 
+  }
+
+h1:hover{
+  animation: var(--animation-shake-x);
+}
+
+h1 a {
+font-family: 'Joti One', serif;
+ color: white;
+ text-decoration: none; 
+  
+}
+
+h1 a:hover {
+  color: var(--pink-6); 
+}
+
+/* Snarky Ass Comments */
+
+span {
+  font-family: 'Joti One', serif;
+  font-size: 24px; 
+  padding: 6px; 
+  animation: var(--animation-shake-x);
+  
+  background: red; 
+  border-radius: var(--radius-blob-5);
+  }
+
+span:hover {
+  display: inline-block;
+  animation: var(--animation-shake-x);
+}

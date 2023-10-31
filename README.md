@@ -3,8 +3,8 @@
 > 
 
 
-## [Open props](https://open-props.style/)
-## [Youtube](https://www.youtube.com/watch?v=h1BIRNVdugw)
+* [Open props](https://open-props.style/)
+* [Youtube](https://www.youtube.com/watch?v=h1BIRNVdugw)
 
 ## Lyrics 
 Go, Eagles, Go
